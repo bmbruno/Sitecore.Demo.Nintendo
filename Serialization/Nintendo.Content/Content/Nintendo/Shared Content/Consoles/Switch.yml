@@ -1,0 +1,24 @@
+﻿---
+ID: "4d070b76-b36f-42dc-b104-17af37c3d981"
+Parent: "e51c1856-6140-43d3-a2c6-424fc7535e34"
+Template: "5462e681-a4b9-47cc-831c-b9dfef0a76ff"
+Path: /sitecore/content/Nintendo/Shared Content/Consoles/Switch
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2441f88d-603a-479f-aa7b-c7e1df44b6e9"
+      Hint: Image
+      Value: |
+        <image mediaid="{919A98BA-3CD7-45BC-A815-3CA9CC640528}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T183020Z
+    - ID: "7fd6b1d6-6a55-4f4a-89e8-c31443cf4bc2"
+      Hint: Detail Page URL
+      Value: 
+    - ID: "854dd80b-16f6-41d8-9c48-604192ab1765"
+      Hint: Name
+      Value: Switch

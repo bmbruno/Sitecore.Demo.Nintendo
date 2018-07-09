@@ -1,0 +1,34 @@
+﻿---
+ID: "fecf78eb-5c6f-4583-84cd-4ab4644f98f8"
+Parent: "be84fdac-b8df-4512-aeb0-b40485c170ee"
+Template: "ea2cba64-33ff-43e0-99fc-15d975b6e90f"
+Path: /sitecore/templates/Branches/Nintendo/Webpage/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4FB648CC-BADF-4B9A-82E8-7C8F2F843250}"
+              p:before="*"
+              s:id="{5F29F537-9003-4587-9411-247AECC3CE4C}"
+              s:ph="footer-content" />
+            <r
+              uid="{7760B66E-E6E0-46FD-A103-C175A21F974E}"
+              p:after="*[1=2]"
+              s:id="{DE1E7C6B-234A-418F-BE58-245EA9DEFD27}"
+              s:ph="header-content" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T182353Z

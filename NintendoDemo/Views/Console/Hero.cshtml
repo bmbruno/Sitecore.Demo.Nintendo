@@ -1,0 +1,13 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<NintendoDemo.Models.IProduct>
+
+<div class="product hero">
+
+    <div class="product image">
+        @Editable(x => x.Image)
+    </div>
+
+    <h2>@Editable(x => x.Name)</h2>
+
+    <p>@Editable(x => x.Summary)</p>
+
+</div>

@@ -1,0 +1,24 @@
+﻿---
+ID: "102644da-5b88-47d7-8ef9-0365a8808364"
+Parent: "34741b82-d0df-41b4-8eea-7ab18ad48456"
+Template: "b8d9ee77-8471-4470-81c1-9ec4d240b6d5"
+Path: /sitecore/content/Nintendo/Shared Content/Games/Super Mario 64
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T152914Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "97fee380-3091-459d-9fc3-70d8db0e3bcd"
+      Hint: Release Date
+      Value: 19960928T040000Z
+    - ID: "ac27a0d8-c52d-440f-9595-7b9e3e4879fb"
+      Hint: Name
+      Value: Super Mario 64

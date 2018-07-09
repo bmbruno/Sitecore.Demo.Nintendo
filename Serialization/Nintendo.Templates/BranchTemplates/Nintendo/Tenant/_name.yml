@@ -1,0 +1,14 @@
+﻿---
+ID: "e62d4d35-d4f6-4cb9-94a3-7b561729387f"
+Parent: "92548d4f-f37a-4794-8c40-d2c47ad34d8c"
+Template: "f5a9a708-343f-4b04-8fc9-a5e18f84876f"
+Path: /sitecore/templates/Branches/Nintendo/Tenant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T193950Z

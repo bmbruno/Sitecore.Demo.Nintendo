@@ -1,0 +1,28 @@
+﻿---
+ID: "82c77682-6c2e-4d48-83f8-53c2c6859e47"
+Parent: "41b2fb29-24fa-435d-a48e-7065e9b6ad0b"
+Template: "41b2fb29-24fa-435d-a48e-7065e9b6ad0b"
+Path: /sitecore/templates/Nintendo/Base/Site/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {BE84FDAC-B8DF-4512-AEB0-B40485C170EE}
+    {55F1D7D1-762E-46AC-9925-86D04F435251}
+- ID: "a791f095-2521-4b4d-bef9-21dda221f608"
+  Hint: __Style
+  Value: "font-weight: bold;"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T182805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

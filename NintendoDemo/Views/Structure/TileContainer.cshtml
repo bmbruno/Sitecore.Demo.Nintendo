@@ -1,0 +1,16 @@
+﻿@inherits WebViewPage
+
+@{ 
+    Layout = null;
+}
+
+@if (Sitecore.Context.PageMode.IsExperienceEditor)
+{
+    <div class="ee-info">
+        <p>Add Console Tiles to this container.</p>
+    </div>
+}
+
+<div>
+    @Html.Sitecore().Placeholder("tile-container")
+</div>

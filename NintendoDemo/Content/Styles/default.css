@@ -1,0 +1,54 @@
+﻿body { background-color: #DDD; text-align: center; font-family: 'Arial', sans-serif; }
+p { margin-bottom: 1.5em; }
+p:last-of-type { margin-bottom: 0; }
+b { font-weight: bold; }
+i { font-style: italic; }
+hr { margin: 1.5em 0; }
+
+.gutter { width: 95%; max-width: 1200px; margin: 1em auto;  }
+.content { background-color: #FFF; text-align: left; padding: 1em; }
+
+.scEmptyPlaceholder { border: 1px dotted #F00; }
+.scEmptyPlaceholder:hover { border: 2px solid #F00; }
+.scInsertionHandleCenter { height: 26px !important; }
+
+.message { border: 2px solid #000; font-weight: bold; padding: 2em; }
+.message.error { border-color: #A00; color: #A00; background-color: #FAA; }
+
+h1 { font-size: 2.25em; margin-bottom: 0.5em; font-family: 'Arial Black', sans-serif; }
+h2 { font-size: 1.75em; margin-bottom: 0.5em; }
+h3 { font-size: 1.25em; margin-bottom: 1em; }
+
+.product.detail { padding: 1em 0; border-bottom: 2px solid #000; }
+.product.detail:last-of-type { border: none; }
+.product.tile { width: 100%; padding: 1em; display: inline-block; box-shadow: 0 0 16px #CCC; border-radius: 8px; text-align: center; }
+.product.image { margin: 1em 0; }
+.product .media { margin: 1em 0; width: 60%; text-align: center; }
+
+.header { padding: 1em 0; }
+.header .logo { width: 400px; margin: 0 auto; }
+
+.footer { padding: 3em 2em; background-color: #AAA; box-shadow: inset 0 0 50px #666; text-align: left; }
+
+.ee-identifier { background-color: #FFA; padding: 1em; font-size: 0.85em; font-weight: bold; }
+
+.section { margin-bottom: 2em; }
+
+.edit-frame-info { display: inline-block; background-color: #043e5c; color: #FFF; text-shadow: 1px 1px 0 #000; font-weight: bold; font-size: 0.85em; padding: 0.5em; }
+
+.ee-info { background-color: #FFA; border: 1px solid #806008; border-radius: 6px; padding: 1em; color: #2b2807; margin: 1em 0; }
+
+@media ( min-width: 40em ) {
+
+    .gutter { width: 75%; }
+    .content { padding: 1em 2em; box-shadow: 0 8px 32px #CCC; }
+
+    .main { width: 100%; }
+    .sidebar { float: left; width: 20%; }
+
+    .column { float: left; padding: 0 0.5em; }
+    .column.two { width: 50%; }
+
+    .product.tile { max-width: 29%; padding: 1em; margin: 2%; }
+
+}

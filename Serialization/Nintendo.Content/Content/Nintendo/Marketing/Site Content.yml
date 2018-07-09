@@ -1,0 +1,25 @@
+﻿---
+ID: "d7762f8d-a549-4148-8661-c1b6eb0a8bfd"
+Parent: "3dc680af-1cfe-4e8b-96a7-ba43aa409395"
+Template: "55f1d7d1-762e-46ac-9925-86d04f435251"
+Path: /sitecore/content/Nintendo/Marketing/Site Content
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {55F1D7D1-762E-46AC-9925-86D04F435251}
+    {8CD32C54-09D8-4F60-82D3-FBD1EAF4D0F1}
+    {C6002F7B-5CE0-4AD6-9F3F-88D316202775}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A81C0B5-E7D2-4188-BE9D-7D38B0E81747}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T201942Z

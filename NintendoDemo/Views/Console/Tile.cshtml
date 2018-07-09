@@ -1,0 +1,20 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<NintendoDemo.Models.IProduct>
+
+<div class="product tile">
+
+    <div class="product image">
+        @Editable(x => x.Image)
+    </div>
+
+    <h2>@Editable(x => x.Name)</h2>
+
+    @if (Sitecore.Context.PageMode.IsExperienceEditor && Model.DetailPageURL == null)
+    {
+        <div class="ee-info">Warning: No Detail page set.</div>
+    }
+    else
+    {
+        <a href="@Model.DetailPageURL.Url">More Information</a>
+    }
+
+</div>

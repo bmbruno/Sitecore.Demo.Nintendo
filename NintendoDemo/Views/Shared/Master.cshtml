@@ -1,0 +1,23 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@Html.Sitecore().Field("Title")</title>
+</head>
+<body>
+    <div>
+        @Html.Sitecore().Placeholder("header")
+    </div>
+    <div>
+        @Html.Sitecore().Placeholder("content")
+    </div>
+    <div>
+        @Html.Sitecore().Placeholder("footer")
+    </div>
+</body>
+</html>

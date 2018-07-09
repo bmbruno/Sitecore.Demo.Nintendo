@@ -1,0 +1,22 @@
+﻿---
+ID: "85bee45e-d55e-458d-bebe-24f365a15af4"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "f5a9a708-343f-4b04-8fc9-a5e18f84876f"
+Path: /sitecore/content/Nintendo
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\mario|pe|+item:write|+item:read|^*|pd|+item:write|+item:read|^*|
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E62D4D35-D4F6-4CB9-94A3-7B561729387F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T201942Z

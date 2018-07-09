@@ -1,0 +1,38 @@
+﻿@inherits WebViewPage
+
+@{ 
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+        <link type="text/css" href="~/Content/Styles/reset.css" rel="stylesheet" />
+        <link type="text/css" href="~/Content/Styles/default.css" rel="stylesheet" />
+    </head>
+    <body>
+
+        @Html.Sitecore().Placeholder("header-content")
+
+        <div class="content gutter cf">
+            
+            <div class="main">
+                @{ 
+                    /*
+                    Html.Sitecore().Rendering("{19F04159-6CA1-492E-A26F-E42EDDAB4E44}", new { DataSource = "{80174E7A-20D1-45D9-9EDA-5026E5DBEA46}" })
+                    Html.Sitecore().Rendering("{19F04159-6CA1-492E-A26F-E42EDDAB4E44}", new { })
+                    Html.Sitecore().ControllerRendering(controllerName: "Console", actionName: "Detail")
+                    */
+                }
+
+                @Html.Sitecore().Placeholder("body-content")
+            </div>
+
+        </div>
+
+        @Html.Sitecore().Placeholder("footer-content")
+    </body>
+</html>

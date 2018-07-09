@@ -1,0 +1,14 @@
+﻿---
+ID: "34741b82-d0df-41b4-8eea-7ab18ad48456"
+Parent: "42556585-ebfd-44f8-bf65-209823e67dab"
+Template: "c6002f7b-5ce0-4ad6-9f3f-88d316202775"
+Path: /sitecore/content/Nintendo/Shared Content/Games
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T183010Z

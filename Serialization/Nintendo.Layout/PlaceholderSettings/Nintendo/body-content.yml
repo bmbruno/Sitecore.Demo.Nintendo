@@ -1,0 +1,28 @@
+﻿---
+ID: "9d01b70f-8aa2-4213-95c5-281bd8407270"
+Parent: "ae392004-1dd2-488a-a2a9-955af110d19d"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Nintendo/body-content"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "body-content"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {19F04159-6CA1-492E-A26F-E42EDDAB4E44}
+    {08FC7EC7-55D1-4282-9A35-DF17F9AC3CDC}
+    {31275A73-1866-4DB8-8C26-F2ACA42CD77A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T171459Z

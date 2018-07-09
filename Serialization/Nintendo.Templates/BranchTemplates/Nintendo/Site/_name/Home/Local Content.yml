@@ -1,0 +1,18 @@
+﻿---
+ID: "249b89e4-9980-4393-9954-3c1b7bca2639"
+Parent: "86fe9466-882b-47e3-a709-7efb328aeca5"
+Template: "4aa8e8a7-369b-4e6d-baac-c11715d42630"
+Path: /sitecore/templates/Branches/Nintendo/Site/$name/Home/Local Content
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D06FE3CC-8B46-4CE4-A9BB-9CCBBF076864}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T194040Z

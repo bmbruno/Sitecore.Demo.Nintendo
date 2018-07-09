@@ -1,0 +1,25 @@
+﻿---
+ID: "42556585-ebfd-44f8-bf65-209823e67dab"
+Parent: "85bee45e-d55e-458d-bebe-24f365a15af4"
+Template: "55f1d7d1-762e-46ac-9925-86d04f435251"
+Path: /sitecore/content/Nintendo/Shared Content
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {55F1D7D1-762E-46AC-9925-86D04F435251}
+    {8CD32C54-09D8-4F60-82D3-FBD1EAF4D0F1}
+    {C6002F7B-5CE0-4AD6-9F3F-88D316202775}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0B34DDED-F44F-4B30-8020-16037E2D3053}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T201942Z

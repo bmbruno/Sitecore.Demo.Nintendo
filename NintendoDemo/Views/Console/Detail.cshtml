@@ -1,0 +1,38 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<NintendoDemo.Models.IProduct>
+
+<div class="product detail">
+
+    <h1>@Editable(x => x.Name)</h1>
+    <h3>Release: @Editable(x => x.ReleaseDate)</h3>
+
+    <div class="section media">
+
+        @Editable(x => x.Image)
+
+    </div>
+
+    <div class="section">
+
+        <h2>About</h2>
+        @Editable(x => x.About)
+
+    </div>
+
+    <div class="section">
+
+        <h2>Marketing Page</h2>
+        <p>@Editable(x => x.MarketingPageURL)</p>
+
+    </div>
+
+    <div class="section">
+
+        <h2>Production Status</h2>
+        <p>@if (Model.ActiveProduction)
+        {<span>Active</span> }
+        else
+        { <span>Not Active</span>}</p>
+
+    </div>
+
+</div>

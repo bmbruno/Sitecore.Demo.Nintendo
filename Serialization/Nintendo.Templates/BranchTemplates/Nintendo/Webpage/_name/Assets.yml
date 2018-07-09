@@ -1,0 +1,14 @@
+﻿---
+ID: "d06fe3cc-8b46-4ce4-a9bb-9ccbbf076864"
+Parent: "fecf78eb-5c6f-4583-84cd-4ab4644f98f8"
+Template: "4aa8e8a7-369b-4e6d-baac-c11715d42630"
+Path: /sitecore/templates/Branches/Nintendo/Webpage/$name/Assets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180605T182435Z

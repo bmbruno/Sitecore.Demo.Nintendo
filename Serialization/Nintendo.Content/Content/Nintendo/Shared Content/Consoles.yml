@@ -1,0 +1,14 @@
+﻿---
+ID: "e51c1856-6140-43d3-a2c6-424fc7535e34"
+Parent: "42556585-ebfd-44f8-bf65-209823e67dab"
+Template: "8cd32c54-09d8-4f60-82d3-fbd1eaf4d0f1"
+Path: /sitecore/content/Nintendo/Shared Content/Consoles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T183005Z

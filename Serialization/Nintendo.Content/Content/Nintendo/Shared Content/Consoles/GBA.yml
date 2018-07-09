@@ -1,0 +1,25 @@
+﻿---
+ID: "80174e7a-20d1-45d9-9eda-5026e5dbea46"
+Parent: "e51c1856-6140-43d3-a2c6-424fc7535e34"
+Template: "5462e681-a4b9-47cc-831c-b9dfef0a76ff"
+Path: /sitecore/content/Nintendo/Shared Content/Consoles/GBA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T150555Z
+    - ID: "7fd6b1d6-6a55-4f4a-89e8-c31443cf4bc2"
+      Hint: Detail Page URL
+      Value: |
+        <link text="Nintendo" linktype="external" url="http://www.nintendo.com" anchor="" target="" />
+    - ID: "854dd80b-16f6-41d8-9c48-604192ab1765"
+      Hint: Name
+      Value: Test Item Alpha
+    - ID: "d0c1c196-f855-4c70-895f-a89df2b8780a"
+      Hint: Active Production
+      Type: Checkbox
+      Value: 1

@@ -1,0 +1,35 @@
+﻿---
+ID: "3f578da4-7756-4e0e-8a71-c90dcdbc7174"
+Parent: "bd9a54f8-5ec4-4b16-93d3-6eecc940a90c"
+Template: "1ab4f9ad-b004-413c-8924-3e07143a614b"
+Path: /sitecore/content/Applications/WebEdit/Custom Experience Buttons/Nintendo/Detail Page URL
+DB: core
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/32x32/link_edit.png
+- ID: "4431914a-c40b-437c-8add-d2ed12cc8cc3"
+  Hint: Icon
+  Value: Network/32x32/link_edit.png
+- ID: "cf738220-908d-4c3f-9482-32e625daf13c"
+  Hint: Fields
+  Value: Detail Page URL
+Languages:
+- Language: en
+  Fields:
+  - ID: "108d3a63-baaa-4560-86d8-3a112ed84717"
+    Hint: Header
+    Value: Detail Page URL
+  - ID: "5f0812af-d370-4292-afee-f26a39b7406d"
+    Hint: Tooltip
+    Value: Edit Detail Page URL.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T152636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

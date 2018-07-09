@@ -1,0 +1,18 @@
+﻿---
+ID: "08fc7ec7-55d1-4282-9a35-df17f9ac3cdc"
+Parent: "506a5185-399e-4f1b-8aa7-8a83c1cef198"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Nintendo/Tile Container
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Structure/TileContainer.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T170555Z

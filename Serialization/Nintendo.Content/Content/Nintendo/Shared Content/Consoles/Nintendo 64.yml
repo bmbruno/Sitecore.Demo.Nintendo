@@ -1,0 +1,31 @@
+﻿---
+ID: "b6ed6a4e-492a-4651-bd7f-b0fc5c54f1e1"
+Parent: "e51c1856-6140-43d3-a2c6-424fc7535e34"
+Template: "5462e681-a4b9-47cc-831c-b9dfef0a76ff"
+Path: /sitecore/content/Nintendo/Shared Content/Consoles/Nintendo 64
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2441f88d-603a-479f-aa7b-c7e1df44b6e9"
+      Hint: Image
+      Value: |
+        <image mediaid="{46C177EC-FEFF-4723-8234-9FC97215B48A}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T183015Z
+    - ID: "75b14aa0-42f3-4f31-b3e4-061d81758375"
+      Hint: Release Date
+      Value: 
+    - ID: "7fd6b1d6-6a55-4f4a-89e8-c31443cf4bc2"
+      Hint: Detail Page URL
+      Value: 
+    - ID: "82310071-6c17-4f5e-bb3e-6b170162fd3c"
+      Hint: About
+      Value: |
+        <span style="font-family: Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">The Nintendo 64, stylized as NINTENDO64 and abbreviated to N64, is Nintendo's third home video game console for the international market. Named for its 64-bit central processing unit, it was released in June 1996 in Japan, September 1996 in North America and Brazil, March 1997 in Europe and Australia, September 1997 in France. It was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch, released in 2017. Though succeeded by Nintendo's MiniDVD-based GameCube in September 2001, the Nintendo 64 was sold until the system was retired in late 2003.</span>
+    - ID: "854dd80b-16f6-41d8-9c48-604192ab1765"
+      Hint: Name
+      Value: Nintendo 64
