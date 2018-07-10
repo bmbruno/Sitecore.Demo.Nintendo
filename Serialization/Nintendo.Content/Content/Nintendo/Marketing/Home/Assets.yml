@@ -1,6 +1,6 @@
 ﻿---
-ID: "17a4e4f2-e924-437e-8cca-16606acaad30"
-Parent: "146262de-0735-45fb-ba8a-71534f511628"
+ID: "17fed56b-43bb-4028-8cd5-4c49962c849e"
+Parent: "4e7c2832-81c3-435f-800c-3c2bf6cbda81"
 Template: "4aa8e8a7-369b-4e6d-baac-c11715d42630"
 Path: /sitecore/content/Nintendo/Marketing/Home/Assets
 DB: master
@@ -16,4 +16,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20180709T141842Z
+      Value: 20180710T134148Z
