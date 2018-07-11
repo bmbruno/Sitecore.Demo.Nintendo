@@ -12,6 +12,10 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20180622T150555Z
+    - ID: "390d0b24-75d5-4485-8e93-ba6e2135387a"
+      Hint: Marketing Page URL
+      Value: |
+        <link linktype="internal" text="DESCRIPTION" title="ALT TEXT" querystring="" target="" id="{02447642-3FDE-4CC4-9E15-55BBEA4F5DB6}" />
     - ID: "7fd6b1d6-6a55-4f4a-89e8-c31443cf4bc2"
       Hint: Detail Page URL
       Value: |

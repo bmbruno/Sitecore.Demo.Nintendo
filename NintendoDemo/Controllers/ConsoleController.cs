@@ -34,6 +34,8 @@ namespace NintendoDemo.Controllers
 
         public ActionResult Detail()
         {
+            var dsTemplate = RenderingContext.Current.Rendering.Item["Datasource Template"];
+
             if (!String.IsNullOrEmpty(RenderingContext.Current.Rendering.DataSource))
             {
                 IProduct model = _context.GetItem<IProduct>(RenderingContext.Current.Rendering.DataSource);
