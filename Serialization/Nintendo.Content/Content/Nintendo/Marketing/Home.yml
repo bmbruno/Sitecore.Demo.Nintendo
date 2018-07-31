@@ -6,6 +6,15 @@ Path: /sitecore/content/Nintendo/Marketing/Home
 DB: master
 BranchID: "be84fdac-b8df-4512-aeb0-b40485c170ee"
 SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <event
+        id="{732C4CE9-AADF-4267-9EB6-42DE2ED9CEFC}"
+        name="TEST" />
+    </tracking>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{FECF78EB-5C6F-4583-84CD-4AB4644F98F8}"

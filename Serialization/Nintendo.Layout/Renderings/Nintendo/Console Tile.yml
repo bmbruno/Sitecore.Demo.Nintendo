@@ -14,7 +14,7 @@ SharedFields:
   Value: "{3F578DA4-7756-4E0E-8A71-C90DCDBC7174}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: ./Local Content|/sitecore/content/nintendo/shared content|/sitecore/content/nintendo/marketing/site content
+  Value: "query:./Assets//*[@@TemplateID = '{8CD32C54-09D8-4F60-82D3-FBD1EAF4D0F1}']"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |

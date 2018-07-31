@@ -17,7 +17,7 @@ SharedFields:
   Value: "{3F578DA4-7756-4E0E-8A71-C90DCDBC7174}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: ./Local Content|/sitecore/content/Nintendo/Shared Content|/sitecore/content/nintendo/marketing/site content
+  Value: ./Assets|/sitecore/content/Nintendo/Shared Content|/sitecore/content/nintendo/marketing/site content
 - ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
   Hint: Controller Action
   Value: Detail
